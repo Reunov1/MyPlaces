@@ -4,7 +4,7 @@
 //
 //  Created by Александр Реунов on 08.03.2020.
 //  Copyright © 2020 Александр Реунов. All rights reserved.
-//
+//  the project is completed
 
 import UIKit
 import Cosmos
